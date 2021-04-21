@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class BritShortHair extends Cat {
 	private int cans;
-	private double price;
 	
 	Scanner in=new Scanner(System.in);
 
