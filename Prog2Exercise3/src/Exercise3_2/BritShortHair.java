@@ -17,7 +17,7 @@ public class BritShortHair extends Cat {
 	}
 	
 	public int getCal() {
-		return cans*super.getAmount*240;
+		return cans*super.getAmount()*240;
 	}
 	
 	public String toString() {
